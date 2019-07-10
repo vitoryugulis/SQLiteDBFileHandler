@@ -1,0 +1,7 @@
+sqlite3 transactionStorage.db
+
+create table transactions(
+id integer primary key,
+datahora text,
+transactionName text
+);
