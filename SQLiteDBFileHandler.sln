@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{529428AB-CE83-4E5B-B7CB-A6B87187D4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteDataWriter", "SQLiteDataWriter\SQLiteDataWriter.csproj", "{0B7AD85A-2D52-459E-93B5-DAB505738883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{3FC67034-0339-4019-A965-210F5B05FC20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529428AB-CE83-4E5B-B7CB-A6B87187D4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529428AB-CE83-4E5B-B7CB-A6B87187D4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529428AB-CE83-4E5B-B7CB-A6B87187D4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529428AB-CE83-4E5B-B7CB-A6B87187D4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7AD85A-2D52-459E-93B5-DAB505738883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7AD85A-2D52-459E-93B5-DAB505738883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7AD85A-2D52-459E-93B5-DAB505738883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7AD85A-2D52-459E-93B5-DAB505738883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC67034-0339-4019-A965-210F5B05FC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC67034-0339-4019-A965-210F5B05FC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC67034-0339-4019-A965-210F5B05FC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC67034-0339-4019-A965-210F5B05FC20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE2601A8-CFDD-46A0-9230-FAB13CE2F10E}
+	EndGlobalSection
+EndGlobal
